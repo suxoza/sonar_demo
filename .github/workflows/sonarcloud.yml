@@ -26,4 +26,5 @@ jobs:
           args:
             -Dsonar.projectKey=sonar_demo
             -Dsonar.organization=suxoza
+            -Dsonar.branch.name=main
           projectBaseDir: .
