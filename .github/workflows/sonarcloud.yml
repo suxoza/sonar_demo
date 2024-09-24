@@ -27,4 +27,5 @@ jobs:
             -Dsonar.projectKey=suxoza_sonar_demo
             -Dsonar.organization=suxoza
             -Dsonar.branch.name=main
+            -Dsonar.ci=true
           projectBaseDir: .
