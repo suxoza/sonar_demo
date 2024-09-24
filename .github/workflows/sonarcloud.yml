@@ -24,7 +24,7 @@ jobs:
         with:
           # Additional arguments for the SonarScanner CLI
           args:
-            -Dsonar.projectKey=sonar_demo
+            -Dsonar.projectKey=suxoza_sonar_demo
             -Dsonar.organization=suxoza
             -Dsonar.branch.name=main
           projectBaseDir: .
